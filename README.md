@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
 <!--
 **ujjwalmishra9560/ujjwalmishra9560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
